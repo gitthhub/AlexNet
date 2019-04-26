@@ -12,7 +12,7 @@ Top-5 error rate: 0.241 (compare to 0.182 in paper)
 ```
 
 ### Reference
-[AlexNet Architecture](https://github.com/kratzert/finetune_alexnet_with_tensorflow/blob/master/alexnet.py)
+[AlexNet Architecture](http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/myalexnet_forward_newtf.py)
 
 [AlexNet Weights](http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/)
 
